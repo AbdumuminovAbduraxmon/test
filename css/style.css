@@ -1,0 +1,31 @@
+.wrapper{
+    border: 1px solid #01384d;
+    border-radius: 10px;
+    width: 330px;
+    height: 330px;
+    padding: 30px;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 150px;
+}
+.title{
+    text-align: center;
+}
+input{
+    width: 270px;
+    padding: 17px;
+    margin-top: 15px;
+    border-radius: 10px;
+    border: 1 px solid #01384d;
+}
+button{
+    display: block;
+    width: 270px;
+    padding: 17px;
+    margin:0 auto;
+    margin-top: 35px;
+    background-color: #406b7c;
+    color: white;
+    border: none;
+    border-radius: 10px;
+}
